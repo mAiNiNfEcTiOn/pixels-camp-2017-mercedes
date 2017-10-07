@@ -1,0 +1,25 @@
+{
+  "name": "pixels-camp-2017-mercedes",
+  "version": "1.0.0",
+  "description": "Hangouts Bot for API.AI test",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/client": "^3.14.0",
+    "apiai": "^4.0.2",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI",
+    "Bot",
+    "Slack",
+    "Pixels Camp 2017",
+    "Mercedes"
+  ],
+  "author": "Ricardo Machado <rmachado@travix.com>",
+  "license": "MIT"
+}
